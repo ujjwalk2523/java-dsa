@@ -45,7 +45,7 @@ public class countinversions {
                 arr[k++]=a[i++];
             }
             else{
-                arr[k++]=b[j++];
+                arr[k++]=b[j++];969
                 count+=(a.length-i);
             }
         }
