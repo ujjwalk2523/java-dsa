@@ -1,6 +1,6 @@
 package cyclicsort;
 import java.util.Scanner;
-public class firstmissingpositive {
+public class firstmissingPositive {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("enter the size of the array:");
