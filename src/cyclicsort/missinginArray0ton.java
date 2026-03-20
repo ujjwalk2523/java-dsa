@@ -1,6 +1,6 @@
 package cyclicsort;
 import java.util.Scanner;
-public class missinginarray0ton {
+public class missinginArray0ton {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the size of the array:");
